@@ -1,0 +1,46 @@
+*{
+	
+	
+}
+
+.logo{
+	text-align: center;
+	padding-top: 50px;
+}
+
+.cover{
+	text-align: center;
+	padding-top: 30px;
+	position: relative;
+
+
+}
+
+.cover a{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 30px;
+	font-size: 50px;
+	font-weight: bold; 
+
+}
+
+
+a, a:visited{
+	color: #ffffff;
+	font-weight: bold;
+	
+
+}
+
+a:hover{
+	color: #e03d4e;
+}
+
+
+header{
+	background-color: #808080;
+	border-bottom: solid #808080;
+}
+

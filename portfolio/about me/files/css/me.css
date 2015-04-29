@@ -1,0 +1,39 @@
+
+
+body {
+	background-color: #808080;
+	border-bottom: solid #808080;
+}
+
+
+.button-wrapper {
+  width: 100%;
+  margin: 25px;
+}
+
+.portfolio {
+  width: 100px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  float: left;
+  margin-right: 20px;
+  transition: all 200ms ease-in-out;
+}
+
+
+.portfolio {
+  color: #000000;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  background: transparent;
+}
+
+ .portfolio:hover {
+    color: #ffffff;
+    background: #ca8080;
+  }

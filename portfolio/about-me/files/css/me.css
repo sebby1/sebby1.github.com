@@ -1,8 +1,8 @@
 
 
 body {
-	background-color: #808080;
-	border-bottom: solid #808080;
+  background-color: #808080;
+  border-bottom: solid #808080;
 }
 
 
@@ -39,24 +39,24 @@ body {
   }
 
   .paragraph{
-	font-size: 18px;
-	text-align: center;
-	width: 20%;
-	margin: auto;
+  font-size: 18px;
+  text-align: center;
+  width: 20%;
+  margin: auto;
 }
 
 .paragraph p{
-	padding-top: 25px;
-	padding-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .images{
-	margin: 0 auto;
-	width: 45%;
-	text-align: center;
+  margin: 0 auto;
+  width: 45%;
+  text-align: center;
 }
 
 .top{
-	padding-top: 0px;
-	padding-bottom: 10px;
+  padding-top: 0px;
+  padding-bottom: 10px;
 }
